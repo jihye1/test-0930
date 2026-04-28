@@ -7,5 +7,3 @@ class Dog extends Animal {
     super.doSomething();
   }
 }
-
-var myArray = ['a', 'b', 'c', 'd'];
